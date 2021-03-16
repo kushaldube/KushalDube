@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there 👋, I'm Kushal Dube, a first-year student from the CSE Core branch.
+
 
 <!--
 **KushalDube/KushalDube** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
