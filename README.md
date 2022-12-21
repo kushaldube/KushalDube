@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Kushal Dube, a sophomore from the CSE Core branch.
+### Hi there 👋, I'm Kushal Dube, a prefinal year from the CSE Core branch.
 
 
 <!--
